@@ -5,7 +5,7 @@
 - [课程列表](#curriculum)
 - [推荐学习路线](#learning_route)
  - [必备基础课程](#must_basic)
- - [护理学基础初级](#nursing_basic) 
+ - [护理学课程初级](#nursing_basic) 
  - [必备中级课程](#must_median)
  - [护理学课程中级](#nursing_median)  
  - [护理学辅助课程](#nursing_supp)  

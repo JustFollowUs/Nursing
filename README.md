@@ -88,13 +88,13 @@
 ###<h3 id="special_learning_data">领域会议期刊</h3>
 会议or期刊名称 | 会议or期刊
 :-- | :--: 
-- [中华护理学会](http://www.cna-cast.org.cn/) | 会议
-- [中华护理杂志](http://www.zhhlzzs.com/) | 期刊
-- [INT J NURS STUD](http://www.journalofnursingstudies.com/) | 期刊
-- [ONCOL NURS FORUM](https://onf.ons.org/) | 期刊
-- [J CARDIOVASC NURS](http://journals.lww.com/jcnjournal/) | 期刊
-- [CANCER NURS](http://journals.lww.com/cancernursingonline/) | 期刊
-- [EVID-BASED NU](http://ebn.bmj.com/) | 期刊
+[中华护理学会](http://www.cna-cast.org.cn/) | 会议
+[中华护理杂志](http://www.zhhlzzs.com/) | 期刊
+[INT J NURS STUD](http://www.journalofnursingstudies.com/) | 期刊
+[ONCOL NURS FORUM](https://onf.ons.org/) | 期刊
+[J CARDIOVASC NURS](http://journals.lww.com/jcnjournal/) | 期刊
+[CANCER NURS](http://journals.lww.com/cancernursingonline/) | 期刊
+[EVID-BASED NU](http://ebn.bmj.com/) | 期刊
 - 其他(尚未完善)
 
 
